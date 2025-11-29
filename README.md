@@ -17,5 +17,5 @@ Git & GitHub deeply
 📫 Contact me:
 
 📧 avinashbachhav67@gmail.com
-🌐 LinkedIn
+🌐 Linkedin
 ⚡ Fun fact: I love exploring new tech and building fun projects!
