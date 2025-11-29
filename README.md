@@ -1,4 +1,4 @@
-Hi there 👋 I'm Avinash Bachhav
+iHi there 👋 I'm Avinash Bachhav
 🎓 I’m a Master of Computer Science student passionate about coding and learning new technologies.
 
 💡 Things I love:
@@ -16,6 +16,6 @@ Git & GitHub deeply
 🎮 Mini Game in Java
 📫 Contact me:
 
-📧 giridharwagh0943@gmail.com
+📧 avinashbachhav67@gmail.com
 🌐 LinkedIn
 ⚡ Fun fact: I love exploring new tech and building fun projects!
