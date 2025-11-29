@@ -17,5 +17,5 @@ Git & GitHub deeply
 📫 Contact me:+91 8669173701
 
 📧 avinashbachhav67@gmail.com
-🌐 Connect
+🌐 [Connect](https://www.linkedin.com/in/avinash-bachhav-7871042a0/)
 ⚡ Fun fact: I love exploring new tech and building fun projects!
