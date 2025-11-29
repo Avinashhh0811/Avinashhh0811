@@ -14,8 +14,8 @@ Git & GitHub deeply
 
 📝 My Portfolio Website
 🎮 Mini Game in Java
-📫 Contact me:
+📫 Contact me:+91 8669173701
 
 📧 avinashbachhav67@gmail.com
-🌐 Linkedin
+🌐 Connect
 ⚡ Fun fact: I love exploring new tech and building fun projects!
