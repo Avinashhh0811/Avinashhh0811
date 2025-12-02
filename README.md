@@ -3,7 +3,9 @@ Hi there 👋 I'm Avinash Bachhav
 
 💡 Things I love:
 
-💻 Web Development (HTML, CSS, JS, PHP)
+💻 **Frontend :**(HTML | CSS | JS | ReactJS |Bootstrap <br><br> **Backend :**  Java | Core Java | JDBC | Servlets | Spring Boot | REST
+ APIs | ORM | Hibernate <br><br> **Tools :** Git | GitHub | Maven | Eclipse | IntelliJ IDEA | Version
+ Control
 🧠 Problem Solving (Java, C)
 ⚙️ Open Source Contributions
 📚 Currently Learning:
@@ -13,7 +15,7 @@ Git & GitHub deeply
 🚀 Projects:
 
 📝 My Portfolio Website
-🎮 Mini Game in Java
+🎮 Real world projects in java.
 📫 Contact me:+91 8669173701
 
 📧 avinashbachhav67@gmail.com
