@@ -48,8 +48,8 @@
 
 ## 📫 Contact  
 📧 Email: **avinashbachhav67@gmail.com**  
-🌐 Connect: [LinkedIn](#) *(www.linkedin.com/in/
-avinash-bachhav-7871042a0)*  
+  🌐 Connect: [LinkedIn](https://www.linkedin.com/in/avinash-bachhav-7871042a0/)
+
 
 ---
 
