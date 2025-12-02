@@ -1,21 +1,57 @@
-Hi there 👋 I'm Avinash Bachhav
-🎓 I’m a Master of Computer Science student passionate about coding and learning new technologies.
+# Hi there 👋 I'm Avinash Bachhav  
+🎓 Master's student in Computer Science  
+💡 Passionate about Java, backend development, and building real-world projects.
 
-💡 Things I love:
+---
 
-💻 **Frontend :** HTML | CSS | JS | ReactJS |Bootstrap <br><br> **Backend :**  Java | Core Java | JDBC | Servlets | Spring Boot | REST
- APIs | ORM | Hibernate <br><br> **Tools :** Git | GitHub | Maven | Eclipse | IntelliJ IDEA | Version <br><br> **Database :**
- MySQL | SQL Queries | Joins | Stored Procedures
- Control <br><br>
-🧠 Problem Solving (Java)<br<br>
-⚙️ Open Source Contributions<br><br>
-**📚 Currently Learning : **
-Java & Ai,
-Git & GitHub deeply
-🚀 Projects:
-🎮 Real world projects in java.<br><br>
-📫 Contact me:+91 8669173701
+## 🔧 Tech Stack
 
-📧 avinashbachhav67@gmail.com
-🌐 [Connect](https://www.linkedin.com/in/avinash-bachhav-7871042a0/)
-⚡ Fun fact: I love exploring new tech and building fun projects!
+### 🌐 Frontend  
+- HTML, CSS, JavaScript  
+- ReactJS  
+- Bootstrap  
+
+### 🔙 Backend  
+- Java (Core & Advanced)  
+- JDBC, Servlets  
+- Spring Boot  
+- REST APIs  
+- ORM / Hibernate  
+
+### 🛠 Tools  
+- Git, GitHub  
+- Maven  
+- Eclipse, IntelliJ IDEA  
+- Version Control  
+
+### 🗄 Database  
+- MySQL  
+- SQL Queries  
+- Joins, Stored Procedures  
+
+---
+
+## 🧩 Interests
+- Problem Solving (Java)  
+- Exploring new tools & frameworks  
+- Open Source Contributions  
+
+---
+
+## 📘 Currently Learning  
+- Java & AI  
+- Spring Boot Deep Dive  
+- Git & GitHub Advanced  
+- Building full-stack real-world applications  
+
+---
+
+## 📫 Contact  
+📧 Email: **avinashbachhav67@gmail.com**  
+🌐 Connect: [LinkedIn](#) *(add your link here)*  
+
+---
+
+## ⚡ Fun fact  
+I love exploring new technologies and crafting small projects that later evolve into bigger ideas 💡🚀
+
