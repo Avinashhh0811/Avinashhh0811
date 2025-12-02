@@ -6,8 +6,8 @@ Hi there 👋 I'm Avinash Bachhav
 💻 **Frontend :**(HTML | CSS | JS | ReactJS |Bootstrap <br><br> **Backend :**  Java | Core Java | JDBC | Servlets | Spring Boot | REST
  APIs | ORM | Hibernate <br><br> **Tools :** Git | GitHub | Maven | Eclipse | IntelliJ IDEA | Version <br><br> **Database :**
  MySQL | SQL Queries | Joins | Stored Procedures
- Control
-🧠 Problem Solving (Java, C)
+ Control <br><br>
+🧠 Problem Solving (Java)
 ⚙️ Open Source Contributions
 📚 Currently Learning:
 
