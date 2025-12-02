@@ -7,16 +7,13 @@ Hi there 👋 I'm Avinash Bachhav
  APIs | ORM | Hibernate <br><br> **Tools :** Git | GitHub | Maven | Eclipse | IntelliJ IDEA | Version <br><br> **Database :**
  MySQL | SQL Queries | Joins | Stored Procedures
  Control <br><br>
-🧠 Problem Solving (Java)
-⚙️ Open Source Contributions
-📚 Currently Learning:
-
-Java & Ai
+🧠 Problem Solving (Java)<br<br>
+⚙️ Open Source Contributions<br><br>
+**📚 Currently Learning : **
+Java & Ai,
 Git & GitHub deeply
 🚀 Projects:
-
-📝 My Portfolio Website
-🎮 Real world projects in java.
+🎮 Real world projects in java.<br><br>
 📫 Contact me:+91 8669173701
 
 📧 avinashbachhav67@gmail.com
