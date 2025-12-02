@@ -48,7 +48,7 @@
 
 ## 📫 Contact  
 📧 Email: **avinashbachhav67@gmail.com**  
-🌐 Connect: [LinkedIn](#) *(add your link here)*  
+🌐 Connect: [LinkedIn](#) *(avinash-bachhav-7871042a0)*  
 
 ---
 
